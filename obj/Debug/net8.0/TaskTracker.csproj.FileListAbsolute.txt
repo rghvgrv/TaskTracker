@@ -1,0 +1,15 @@
+D:\Dotnet\TaskTracker\bin\Debug\net8.0\TaskTracker.exe
+D:\Dotnet\TaskTracker\bin\Debug\net8.0\TaskTracker.deps.json
+D:\Dotnet\TaskTracker\bin\Debug\net8.0\TaskTracker.runtimeconfig.json
+D:\Dotnet\TaskTracker\bin\Debug\net8.0\TaskTracker.dll
+D:\Dotnet\TaskTracker\bin\Debug\net8.0\TaskTracker.pdb
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfoInputs.cache
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfo.cs
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.csproj.CoreCompileInputs.cache
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.dll
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\refint\TaskTracker.dll
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
+D:\Dotnet\TaskTracker\bin\Debug\net8.0\task.json
