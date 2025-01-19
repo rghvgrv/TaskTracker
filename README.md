@@ -1,7 +1,7 @@
 
 # TaskTracker
 
-TaskTracker is a C# application designed to help users manage and track their tasks efficiently - https://github.com/rghvgrv/TaskTracker
+TaskTracker is a C# application designed to help users manage and track their tasks efficiently.
 
 ## Features
 
