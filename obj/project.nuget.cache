@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jzQe9oM3hvM=",
+  "dgSpecHash": "5MU4kYhi6vs=",
   "success": true,
   "projectFilePath": "D:\\Dotnet\\TaskTracker\\TaskTracker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaurav\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

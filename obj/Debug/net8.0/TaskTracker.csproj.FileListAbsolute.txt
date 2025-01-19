@@ -13,3 +13,8 @@ D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
 D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
 D:\Dotnet\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
 D:\Dotnet\TaskTracker\bin\Debug\net8.0\task.json
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.csproj.AssemblyReference.cache
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTracker.sourcelink.json
+D:\Dotnet\TaskTracker\bin\Debug\net8.0\nunit.framework.dll
+D:\Dotnet\TaskTracker\bin\Debug\net8.0\nunit.framework.legacy.dll
+D:\Dotnet\TaskTracker\obj\Debug\net8.0\TaskTrac.2CCAFB19.Up2Date
